@@ -63,6 +63,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   createBoard()
-  console.log(squares)
+ 
 
 })
