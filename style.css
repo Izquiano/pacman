@@ -22,31 +22,38 @@
 }
 
 .power-pellet {
-  background-color: green;
+  background-image: url(./power.png);
+  background-size: cover;
+  
   border-radius: 10px;
 }
 
 
 .blinky{
-  background-color: red;
+  background-image: url(./blinky.png);
+  background-size: cover;
   border: 0px;
 }
 .pinky{
-  background-color: pink;
+  background-image: url(./pinky.png);
+  background-size: cover;
   border: 0px;
 }
 .inky{
-  background-color: cyan;
+  background-image: url(./inky.png);
+  background-size: cover;
   border: 0px;
 }
 
 .clyde{
-  background-color: orange;
+  background-image: url(./clyde.png);
+  background-size: cover;
   border: 0px;
 }
 
 .scared-ghost{
-  background-color: aquamarine;
+  background-image: url(./scared.png);
+  background-size: cover;
   border: 0px;
 }
 
@@ -56,5 +63,7 @@
 .pac-man{
   background-color: yellow;
   border-radius: 10px;
+  background-image: url(./pacman.gif);
+  background-size: cover;
   /* border: 1px solid black; */
 }
